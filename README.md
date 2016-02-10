@@ -1,2 +1,2 @@
 # helloworld
-hello all
+hello Git hub. I'm newbie.
